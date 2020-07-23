@@ -110,7 +110,6 @@ body {
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -125,7 +124,7 @@ body {
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: orange;
+  background-color: rgb((46, 218, 23), 255, 0);
   color: white;
 }
 
