@@ -43,9 +43,8 @@ section{
   text-align: left;
 }
 
-*, *:before, *:after {
-  box-sizing: content-box;
-  font-family: cursive, sans-serif;
+*{
+  font-family: cursive;
 }
 #new1 button:hover{
   background-color: grey;
