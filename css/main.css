@@ -38,11 +38,21 @@ section{
   text-align: center;
 }
 
-.contact-body{
+#services{
   background-color: orange;
   text-align: justify;
 
 }
+
+#services h2{
+  text-align: center;
+  text-decoration: none;
+}
+
+#services li{
+  font-size: medium;
+}
+
 
 *{
   font-family: cursive;
@@ -154,5 +164,9 @@ body {
   }
   .active{
     float: right;
+  }
+
+  #services ol{
+    max-width: 90%;
   }
 }
