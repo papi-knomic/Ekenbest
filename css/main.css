@@ -39,7 +39,7 @@ section{
 }
 
 #services{
-  background-color: orange;
+  background-color: white;
   text-align: justify;
 
 }
@@ -47,10 +47,12 @@ section{
 #services h2{
   text-align: center;
   text-decoration: none;
+  color: orange;
 }
 
 #services li{
   font-size: medium;
+  color: orange;
 }
 
 
