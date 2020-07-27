@@ -38,9 +38,10 @@ section{
   text-align: center;
 }
 
-#contact-body{
+.contact-body{
   background-color: orange;
-  text-align: left;
+  text-align: justify;
+
 }
 
 *{
@@ -154,3 +155,4 @@ body {
   .active{
     float: right;
   }
+}
