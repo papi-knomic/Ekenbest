@@ -38,18 +38,14 @@ section{
   text-align: center;
 }
 
+#contact-body{
+  background-color: orange;
+  text-align: left;
+}
 
-#new li{
-  text-align: justify;
-  list-style: none;
-  font-size: large;
-  font-family: 'Times New Roman', Times, serif;
-}
-#new ul{
-  margin: auto 0;
-}
-*{
-  font-family: cursive;
+*, *:before, *:after {
+  box-sizing: content-box;
+  font-family: cursive, sans-serif;
 }
 #new1 button:hover{
   background-color: grey;
