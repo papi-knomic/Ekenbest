@@ -59,10 +59,7 @@ section{
 #new1 button:hover{
   background-color: grey;
 }
-.font{
-  font-family: cursive;
-  text-decoration: underline;
-}
+
 
 footer{
   text-align: center;
