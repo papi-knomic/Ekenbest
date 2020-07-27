@@ -1,12 +1,15 @@
-p {
-    margin: 0 2em 1.75em;
-    display: block;
-    font-weight: bolder;
-}
+
 *, *:before, *:after {
     box-sizing: content-box;
+    font-family: cursive;
 }
 
 h2{
     margin: 0.5em 1.3em 0.2em;
+}
+
+.contact-body {
+    margin: 0 2em 1.75em;
+    display: block;
+    
 }
