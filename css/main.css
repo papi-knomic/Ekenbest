@@ -148,9 +148,9 @@ body {
     display: block;
     text-align: left;
   }
-}
-@media screen and (max-width: 600px){
   #right{
     float: none;
   }
-}
+  .active{
+    float: right;
+  }
