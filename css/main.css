@@ -164,9 +164,6 @@ body {
   #right{
     float: none;
   }
-  .active{
-    float: right;
-  }
 
   #services ol{
     max-width: 90%;

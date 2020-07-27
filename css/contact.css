@@ -2,6 +2,7 @@ p {
     margin: 0 2em 1.75em;
     display: block;
     font-weight: bolder;
+    color: orange;
 }
 *, *:before, *:after {
     box-sizing: content-box;
@@ -9,8 +10,4 @@ p {
 
 h2{
     margin: 0.5em 1.3em 0.2em;
-}
-#contact-body{
-    background-color: orange;
-    text-align: left;
 }
