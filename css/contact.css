@@ -2,7 +2,6 @@ p {
     margin: 0 2em 1.75em;
     display: block;
     font-weight: bolder;
-    color: orange;
 }
 *, *:before, *:after {
     box-sizing: content-box;
