@@ -162,6 +162,9 @@ body {
   #services ol{
     max-width: 90%;
   }
+  .last-pic{
+    padding-bottom: 10px;
+  }
 }
 
 .arrow{
